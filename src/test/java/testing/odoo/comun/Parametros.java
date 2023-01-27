@@ -24,7 +24,7 @@ public class Parametros {
     /**
      * Password para ingresar al portal Web
      */
-    public String LOGIN_PASS = "N72x6tqigfvvchA";
+    public String LOGIN_PASS = "N72112x6tqigfvvchA223";
 
     public long TIEMPO_CORTO = 5;
     public long TIEMPO_MEDIO = 10;
